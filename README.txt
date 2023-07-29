@@ -1,4 +1,4 @@
-Website as a reference for the AI Course Design Canvas.
+Website as a reference for the AI Course Design Planning Framework.
 
 Credits:
 	Design: 
