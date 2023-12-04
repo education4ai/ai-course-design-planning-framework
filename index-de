@@ -1,0 +1,191 @@
+<!DOCTYPE HTML>
+<!--
+	Spectral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>AI Course Design Planning Framework</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+	</head>
+	<body class="landing is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<!--header id="header" class="alt">
+						<h1><a href="index.html">AI Course Design Tool</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.html">Home</a></li>
+											<li><a href="generic.html">Generic</a></li>
+											<li><a href="elements.html">Elements</a></li>
+											<li><a href="#">Sign Up</a></li>
+											<li><a href="#">Log In</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header-->
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<h2>AI Course Design Planning Framework</h2>
+							<p>Developing Domain-Specific AI Education Courses.</p>
+							<ul class="actions stacked">
+								<li><a href="material/AI_Course_Design_Planning_Framework_English_v09.pptx" class="button primary">Download PPTX</a></li>
+							</ul>
+							<ul class="actions special">
+								<li><a href="material/AI_Course_Design_Planning_Framework_English_v09.pdf" class="button primary">Download PDF&nbsp;</a></li>
+							</ul>
+						</div>
+						<a href="#one" class="more scrolly">Learn More</a>
+					</section>
+
+				<!-- One -->
+					<section id="one" class="wrapper style1 special">
+						<div class="inner">
+							<header class="major">
+								<h2>Improving domain-specific AI education</h2>
+								<p>A structured approach to design domain-specific AI courses <br />
+									and help teachers to bring AI education into their respective domain.
+								</p>
+							</header>
+							<ul class="icons major">
+								<li><span class="icon fa-lock-open solid major"><span class="label">Open</span></span><p></br>Open</p></li>
+								<li><span class="icon fa-sync solid major"><span class="label">Living</span></span><p></br>Living</p></li>
+								<li><span class="icon fa-gem major"><span class="label">Impactful</span></span><p></br>Impactful</p></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- Two -->
+					<section id="two" class="wrapper alt style2">
+						<section class="spotlight">
+							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
+								<h2>Freely available to everyone</h2>
+								<p>The AI Course Design Planning Framework can be downloaded by anyone free of charge and can be used for their own projects, whether in research, education or beyond (CC BY-SA 4.0 license)</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
+								<h2>A living project</h2>
+								<p>The development of the AI Course Design Planning Framework is a continuous process. It is regularly re-evaluated and improved by the latest scientific findings.</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
+								<h2>Interdisciplinary collaboration</h2>
+								<p>The AI Course Design Planning Framework builds an interdisciplinary bridge between computer science education and other academic fields (“domains”). It is applicable in every domain of higher education.</p>
+							</div>
+						</section>
+					</section>
+
+				<!-- Three -->
+					<section id="three" class="wrapper style3 special">
+						<div class="inner">
+							<header class="major">
+								<h2>Structure of the AI Course Design Planning Framework</h2>
+								<p>The framework is divided into three pillars: AI in the Domain (left), Learning Environment (middle), and Course Implementation (right). <br />
+								Taken together, these pillars reflect the key aspects for developing and implementing an AI course.<br />
+							</p>
+							</header>
+							<ul class="features">
+								<li class="icon solid fa-compass">
+									<h3>AI Usecases in the Domain</h3>
+									<p>Impact of AI on the domain, today as well as in the future. Well-established or cutting-edge AI use cases in the domain.</p>
+								</li>
+								<li class="icon solid fa-server">
+									<h3>Data in the Domain</h3>
+									<p>Most common data types in the domain.</p>
+								</li>
+								<li class="icon solid fa-bolt">
+									<h3>Implications of using AI in the Domain</h3>
+									<p>Important legal, ethical and social implications of using AI in the domain.</p>
+								</li>
+								<li class="icon solid fa-puzzle-piece">
+									<h3>Additional Learning Resources</h3>
+									<p>Additional resources that can be used to teach AI in the domain, such as open educational resources.</p>
+								</li>
+								<li class="icon solid fa-users">
+									<font-awesome-icon icon="fa-solid fa-arrow-right-arrow-left" />
+									<h3>Learners and their interaction with AI</h3>
+									<p>Learners’ pre-existing knowledge and skills and the role that learners will take after completing the course.</p>
+								</li>
+								<li class="icon fa-flag">
+									<h3>Instructors</h3>
+									<p>AI knowledge, skills, and competencies of all course instructors and organizers.</p>
+								</li>
+								<li class="icon solid fa-clock">
+									<h3>Internal Support</h3>
+									<p>Internal resources such as available data, time, and money. Support from the university.</p>
+								</li>
+								<li class="icon fa-flag">
+									<h3>Learning Outcomes</h3>
+									<p>Knowledge and skills that participants should have upon completion of the course.</p>
+								</li>
+								<li class="icon solid fa-check-square">
+									<h3>Assessment</h3>
+									<p>Methods with which the achievement of the learning outcomes will be evaluated.</p>
+								</li>
+								<li class="icon solid fa-bars">
+									<h3>Learning Activities</h3>
+									<p>Actual activities that will be used to teach AI to the participants.</p>
+								</li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- CTA -->
+					<section id="cta" class="wrapper style4">
+						<div class="inner">
+							<header>
+								<h2>Try it for yourself</h2>
+								<p>The framework is available for download here. </br></p>
+							</header>
+							<ul class="actions stacked">
+								<li><a href="material/AI_Course_Design_Planning_Framework_English_v09.pptx" class="button primary">Download PPTX</a></li>
+								<li><a href="material/AI_Course_Design_Planning_Framework_English_v09.pdf" class="button primary">Download PDF&nbsp;</a></li>
+							</ul>
+							<!--ul class="actions stacked">
+								<li><a href="#" class="button fit primary">Activate</a></li>
+								<li><a href="#" class="button fit">Learn More</a></li>
+							</ul-->
+						</div>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="icons">
+							<li><a href="mailto:johannes.schleiss@ovgu.de?subject=[AI Course Design Planning Framework]&body=Message" class="icon solid fa-envelope"><span class="label">Contact: Johannes Schleiss</span></a></li>
+						</ul>
+						<ul class="copyright">
+							<li>&copy; 2023</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
